@@ -40,7 +40,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/TryHackMe-SOC%20Level%201-blueviolet?logo=tryhackme&logoColor=white&style=for-the-badge" />
+
 </div>
 
 ## Projects
