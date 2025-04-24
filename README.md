@@ -29,7 +29,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 
 ### Endpoint
-
+<div>
+    <img src="https://img.shields.io/badge/LimaCharlie-Analyst-blue?&style=for-the-badge" />
+</div>
 
 
 
