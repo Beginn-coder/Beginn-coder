@@ -15,21 +15,23 @@ Eager to leverage my IT troubleshooting foundation and hands-on lab experience t
 | SIEM Implementation and Log Analysis          | Microsoft Sentinel Project |
 | Detection-as-Code & Sigma Rule Development | AI-assisted-Detection-Engineering-Incident-Response |
 | Network Traffic Monitoring and Attack Detection |  |
+| Vulnerability Assessment & Remediation Lifecycle | Vulnerability-Management-Demo |
 | Security Automation & SOAR Playbooks         | SOC Automation Lab 2.0 & AI-assisted-Detection-Engineering-Incident-Response |
 | Incident Response & Automated Host Containment | AI-assisted-Detection-Engineering-Incident-Response |
 | Threat Intelligence Enrichment & Log Triage | SOC Automation Lab 2.0 |
 
 ## 🧰 Tools & Tech Stack
 
-### Governance, Risk & Compliance (GRC)
+### Governance, Risk & Compliance (GRC) & Vulnerability Management
 <div>
     <img src="https://img.shields.io/badge/-NIST%20SP%20800--53-003366?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-NIST%20RMF-0055A5?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-TPRM%20%2F%20POA%26M-008080?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Nessus-002B49?&style=for-the-badge&logo=tenable&logoColor=white" />
 </div>
 
 
-## Network & Perimeter
+## Network & Infrastructure
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -39,7 +41,6 @@ Eager to leverage my IT troubleshooting foundation and hands-on lab experience t
 
 ### Endpoint & SIEM
 <div>
-    <img src="https://img.shields.io/badge/LimaCharlie-Analyst-blue?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=green" />
     <img src="https://img.shields.io/badge/-Sentinel-000000?&style=for-the-badge&logo=Sentinel&logoColor=Blue" />
     <img src="https://img.shields.io/badge/-Wazuh-002B49?&style=for-the-badge&logo=wazuh&logoColor=white" />
