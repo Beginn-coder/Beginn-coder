@@ -11,12 +11,13 @@ Eager to leverage my IT troubleshooting foundation and hands-on lab experience t
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Microsoft Sentinel Project 
-| Network Traffic Monitoring and Attack Detection | |
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | Microsoft Sentinel Project |
+| Detection-as-Code & Sigma Rule Development | AI-assisted-Detection-Engineering-Incident-Response |
+| CI/CD Pipelines & Security Automation | AI-assisted-Detection-Engineering-Incident-Response |
+| Network Traffic Monitoring and Attack Detection |  |
+| Security Automation & SOAR Playbooks         | SOC Automation Lab 2.0 & AI-assisted-Detection-Engineering-Incident-Response |
+| Incident Response & Automated Host Containment | AI-assisted-Detection-Engineering-Incident-Response |
+| Threat Intelligence Enrichment & Log Triage | SOC Automation Lab 2.0 |
 
 ## Tools
 
@@ -25,19 +26,23 @@ Eager to leverage my IT troubleshooting foundation and hands-on lab experience t
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-000000?&style=for-the-badge&logo=pfsense&logoColor=black" />
 </div>
 
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/LimaCharlie-Analyst-blue?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=green" />
 </div>
 
 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Sentinel-000000?&style=for-the-badge&logo=Sentinel&logoColor=Blue" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=green" /> 
+    <img src="https://img.shields.io/badge/-Sentinel-000000?&style=for-the-badge&logo=Sentinel&logoColor=Blue" />
+    <img src="https://img.shields.io/badge/-Wazuh-002B49?&style=for-the-badge&logo=wazuh&logoColor=white" />
 </div>
 
 ## Certifications
