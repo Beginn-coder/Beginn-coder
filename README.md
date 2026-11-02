@@ -50,7 +50,7 @@ The project demonstrates how to assess third-party security risks, document cont
 **Frameworks:** NIST SP 800-53 Rev. 5, NIST SP 800-37 Rev. 2, and NIST SP 800-30 Rev. 1.  
 **Deliverables:** Vendor Security Assessment Report and POA&M tracking spreadsheet.
 
-[View the GRC & Third-Party Risk Assessment repository](https://github.com/Beginn-coder)
+[View the GRC & Third-Party Risk Assessment repository]([https://github.com/Beginn-coder/Enterprise-GRC-Third-Party-Risk-Assessment-NIST-SP-800-53-RMF-])
 
 ---
 
